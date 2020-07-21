@@ -1,0 +1,10 @@
+data/test_images/
+data/training_images/
+data/train.mp4
+data/test.mp4
+
+.ipynb_checkpoints
+
+test_video.avi
+train_video.avi
+best_model.hdf5
